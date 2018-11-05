@@ -19,7 +19,9 @@ This is a very basic LSTM model to get familiar with creating them. The LSTM net
 
 Results
 ========
-The LSTM achieved a categorical cross entropy loss of 1.86. Having the model train for more than 20 epochs could improve the model. From the output the text does not make sense but there is the occasional correct word. 
+The LSTM achieved a categorical cross entropy loss of 1.86. The model cannot yet create comprehensible text. Having the model train for more than 20 epochs could improve the model. 
+
+<img src ="LSTM/LSTM.png" width ="400">
 
 Acknowledgements
 ========
